@@ -25,7 +25,7 @@ async function inserirDados() {
       row['Endereço (continuação)'],
       String(row['Gabinete']),
       row['Endereço (complemento)'],
-      String(row['Telefone']),bd
+      String(row['Telefone']),
       String(row['Fax']),
       row['Mês Aniversário'],
       row['Dia Aniversário'],
